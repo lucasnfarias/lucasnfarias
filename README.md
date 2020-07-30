@@ -44,6 +44,12 @@ I am Lucas Niehues de Farias, people call me Whey, Lucas or Finha (yes, a lot of
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com//lucasnfarias/GoStack11/pull/1) in [lucasnfarias/GoStack11](https://github.com//lucasnfarias/GoStack11)
+2. 🎉 Merged PR [#2](https://github.com//lucasnfarias/WebGoBarber/pull/2) in [lucasnfarias/WebGoBarber](https://github.com//lucasnfarias/WebGoBarber)
+3. ❌ Closed PR [#1](https://github.com//lucasnfarias/WebGoBarber/pull/1) in [lucasnfarias/WebGoBarber](https://github.com//lucasnfarias/WebGoBarber)
+4. 🎉 Merged PR [#1](https://github.com//lucasnfarias/react-hooks-redux/pull/1) in [lucasnfarias/react-hooks-redux](https://github.com//lucasnfarias/react-hooks-redux)
+5. 🎉 Merged PR [#1](https://github.com//lucasnfarias/Aircnc/pull/1) in [lucasnfarias/Aircnc](https://github.com//lucasnfarias/Aircnc)
+<!--END_SECTION:activity-->
 
 ## Visitors
 
