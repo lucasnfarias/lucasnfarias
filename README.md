@@ -42,7 +42,7 @@ I am Lucas Niehues de Farias, people call me Whey, Lucas or Finha (yes, a lot of
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## Recent Activity *(updated automatically every 12 hours...)*
+## :zap: Recent Activity *(updated automatically every 12 hours...)*
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com//lucasnfarias/GoStack11/pull/1) in [lucasnfarias/GoStack11](https://github.com//lucasnfarias/GoStack11)
 2. 🎉 Merged PR [#2](https://github.com//lucasnfarias/WebGoBarber/pull/2) in [lucasnfarias/WebGoBarber](https://github.com//lucasnfarias/WebGoBarber)
