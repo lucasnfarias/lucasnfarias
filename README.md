@@ -44,11 +44,11 @@ I am Lucas Niehues de Farias, people call me Whey, Lucas or Finha (yes, a lot of
 
 ## :zap: Recent Activity *(updated automatically every 12 hours...)*
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/lrcouto/MiniRT/pull/1) in [lrcouto/MiniRT](https://github.com/lrcouto/MiniRT)
-2. ❌ Closed PR [#1](https://github.com/lucasnfarias/GoStack11/pull/1) in [lucasnfarias/GoStack11](https://github.com/lucasnfarias/GoStack11)
-3. 🎉 Merged PR [#2](https://github.com/lucasnfarias/WebGoBarber/pull/2) in [lucasnfarias/WebGoBarber](https://github.com/lucasnfarias/WebGoBarber)
-4. ❌ Closed PR [#1](https://github.com//lucasnfarias/WebGoBarber/pull/1) in [lucasnfarias/WebGoBarber](https://github.com//lucasnfarias/WebGoBarber)
-5. 🎉 Merged PR [#1](https://github.com//lucasnfarias/react-hooks-redux/pull/1) in [lucasnfarias/react-hooks-redux](https://github.com//lucasnfarias/react-hooks-redux)
+1. undefined
+2. undefined
+3. undefined
+4. undefined
+5. undefined
 <!--END_SECTION:activity-->
 
 ## Visitors
