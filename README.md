@@ -2,7 +2,7 @@
 
 ### Quick overview
 
-I am Lucas Niehues de Farias, people call me Whey, Lucas or Finha (yes, a lot of different timeline nicknames haha), currently studing at the fantastic [42 São Paulo](https://www.42sp.org.br/) and working as a Junior Tech Solutions Engineer at [RTB House](https://www.rtbhouse.com/). I am graduated in Biomedicine and my professional goal is to work with technology in Health and improve people's quality of life. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
+I am Lucas Niehues de Farias, people call me Whey, Lucas or Finha (yes, a lot of different timeline nicknames haha), currently memeber of the fantastic [42 São Paulo](https://www.42sp.org.br/) and working as a Tech Solutions Engineer at [RTB House](https://www.rtbhouse.com/). I am graduated in Biomedicine (UFPR - 2019) and my professional goal is to work with Health Tech and improve people's quality of life. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-lucasniehuesdefarias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasniehuesdefarias/)](https://www.linkedin.com/in/lucasniehuesdefarias/)
 [![Instagram Badge](https://img.shields.io/badge/-lucasnfarias-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lucasnfarias/)](https://instagram.com/lucasnfarias)
@@ -24,7 +24,7 @@ I am Lucas Niehues de Farias, people call me Whey, Lucas or Finha (yes, a lot of
 5. ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 6. ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 7. ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-8. ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+8. ![Vue](https://img.shields.io/badge/-Vue.js-430098?style=flat-square&logo=vuedotjs)
 9. ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 10. ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  
