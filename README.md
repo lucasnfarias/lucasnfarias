@@ -2,7 +2,7 @@
 
 ### Quick overview
 
-I am Lucas Niehues de Farias, people call me Whey, Lucas or Finha (yes, a lot of different timeline nicknames haha), currently memeber of the fantastic [42 São Paulo](https://www.42sp.org.br/) and working as a Tech Solutions Engineer at [RTB House](https://www.rtbhouse.com/). I am graduated in Biomedicine (UFPR - 2019) and my professional goal is to work with Health Tech and improve people's quality of life. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
+I am Lucas, currently member of the fantastic [42 São Paulo](https://www.42sp.org.br/) and working as a Tech Solutions Engineer at [RTB House](https://www.rtbhouse.com/). I am graduated in Biomedicine (UFPR - 2019) and my professional goal is to work with Health Tech and improve people's quality of life. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-lucasniehuesdefarias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasniehuesdefarias/)](https://www.linkedin.com/in/lucasniehuesdefarias/)
 [![Instagram Badge](https://img.shields.io/badge/-lucasnfarias-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lucasnfarias/)](https://instagram.com/lucasnfarias)
