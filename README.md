@@ -2,7 +2,7 @@
 
 ### Quick overview
 
-I am Lucas, currently member of the fantastic [42 São Paulo](https://www.42sp.org.br/) and working as a Tech Solutions Engineer at [RTB House](https://www.rtbhouse.com/). I am graduated in Biomedicine (UFPR - 2019) and my professional goal is to work with Health Tech and improve people's quality of life. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
+I am Lucas, currently member of the fantastic [42 São Paulo](https://www.42sp.org.br/) and working as a Tech Solutions Engineer at [RTB House](https://www.rtbhouse.com/). I am graduated in Biomedicine (UFPR - 2019) and my professional goal/dream is to work with Health Tech and improve people's quality of life. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-lucasniehuesdefarias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasniehuesdefarias/)](https://www.linkedin.com/in/lucasniehuesdefarias/)
 [![Instagram Badge](https://img.shields.io/badge/-lucasnfarias-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lucasnfarias/)](https://instagram.com/lucasnfarias)
@@ -37,19 +37,9 @@ I am Lucas, currently member of the fantastic [42 São Paulo](https://www.42sp.o
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-## :zap: Recent Activity *(updated automatically every 12 hours...)*
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/lrcouto/MiniRT/pull/1) in [lrcouto/MiniRT](https://github.com/lrcouto/MiniRT)
-2. ❌ Closed PR [#1](https://github.com/lucasnfarias/GoStack11/pull/1) in [lucasnfarias/GoStack11](https://github.com/lucasnfarias/GoStack11)
-3. 🎉 Merged PR [#2](https://github.com/lucasnfarias/WebGoBarber/pull/2) in [lucasnfarias/WebGoBarber](https://github.com/lucasnfarias/WebGoBarber)
-4. ❌ Closed PR [#1](https://github.com//lucasnfarias/WebGoBarber/pull/1) in [lucasnfarias/WebGoBarber](https://github.com//lucasnfarias/WebGoBarber)
-5. 🎉 Merged PR [#1](https://github.com//lucasnfarias/react-hooks-redux/pull/1) in [lucasnfarias/react-hooks-redux](https://github.com//lucasnfarias/react-hooks-redux)
-<!--END_SECTION:activity-->
 
 ## Visitors
 
